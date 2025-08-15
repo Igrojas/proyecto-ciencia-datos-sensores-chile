@@ -1,0 +1,59 @@
+REPORTE FINAL DEL ANÁLISIS DE CALIDAD DEL AIRE
+============================================================
+
+Fecha de generación: 2025-08-15 10:22:26
+Total de mediciones analizadas: 90,045
+Parámetros disponibles: pm10, no2, co, pm25, so2, o3
+Ubicaciones monitoreadas: Parque O'Higgins, Inpesca, Concón, Cauquenes, Gobernación, Puente Alto, Valparaiso, Talagante
+Rango temporal: 2016-10-10 03:00:00+00:00 a 2020-05-24 00:00:00+00:00
+
+RESUMEN EJECUTIVO:
+------------------------------
+Este análisis de ciencia de datos examina la calidad del aire en Santiago de Chile
+utilizando datos de OpenAQ. Se identificaron patrones temporales, se entrenaron
+modelos de predicción y se generaron recomendaciones para usuarios.
+
+PRINCIPALES HALLAZGOS:
+------------------------------
+1. Variaciones estacionales significativas en todos los parámetros
+2. Patrones horarios relacionados con actividad humana
+3. Correlaciones entre diferentes contaminantes
+4. Valores atípicos que requieren atención especial
+
+PARÁMETROS ANALIZADOS:
+------------------------------
+PM25:
+  - Mediciones: 18,000
+  - Valor promedio: 13.519
+  - Variabilidad: 164.7%
+
+PM10:
+  - Mediciones: 18,003
+  - Valor promedio: 37.769
+  - Variabilidad: 63.1%
+
+O3:
+  - Mediciones: 12,003
+  - Valor promedio: 48.920
+  - Variabilidad: 77.6%
+
+NO2:
+  - Mediciones: 12,003
+  - Valor promedio: 24.187
+  - Variabilidad: 80.8%
+
+RECOMENDACIONES:
+------------------------------
+1. Monitorear PM2.5 y PM10 en tiempo real para actividades al aire libre
+2. Evitar ejercicio intenso cuando la calidad del aire es moderada o peor
+3. Usar mascarillas durante episodios de alta contaminación
+4. Planificar actividades considerando patrones temporales identificados
+5. Considerar ubicación geográfica para evaluaciones más precisas
+
+APLICACIONES FUTURAS:
+------------------------------
+1. Sistema de alertas en tiempo real para usuarios
+2. App móvil con recomendaciones personalizadas
+3. Análisis predictivo para planificación urbana
+4. Sistema de monitoreo para instituciones educativas
+5. Herramientas para políticas públicas de calidad del aire
